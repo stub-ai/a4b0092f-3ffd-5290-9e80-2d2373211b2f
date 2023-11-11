@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I want to use Assistant API to create a telegram bot that I can chat with and that can send me custom notifications from Zapier.","md5":"ecb0192c574c468d84092f7f845335b7"}]}
